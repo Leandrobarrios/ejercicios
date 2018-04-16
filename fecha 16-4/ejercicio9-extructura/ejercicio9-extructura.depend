@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523889275 source:c:\test\lbarrios\ejercicio9-extructura\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1523888871 c:\test\lbarrios\ejercicio9-extructura\juego.h
+
+1523889275 c:\test\lbarrios\ejercicio9-extructura\utn.h
+
+1523889275 source:c:\test\lbarrios\ejercicio9-extructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1523889314 source:c:\test\lbarrios\ejercicio9-extructura\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

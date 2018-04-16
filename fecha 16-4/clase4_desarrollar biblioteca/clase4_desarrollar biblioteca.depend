@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523881625 source:c:\test\lbarrios\clase4_desarrollar biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523881625 source:c:\test\lbarrios\clase4_desarrollar biblioteca\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

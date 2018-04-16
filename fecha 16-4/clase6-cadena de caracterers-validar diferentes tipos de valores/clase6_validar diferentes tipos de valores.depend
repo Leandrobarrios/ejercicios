@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523882947 source:c:\test\lbarrios\clase6_validar diferentes tipos de valores\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1523882947 c:\test\lbarrios\clase6_validar diferentes tipos de valores\utn.h
+
+1523882947 source:c:\test\lbarrios\clase6_validar diferentes tipos de valores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
